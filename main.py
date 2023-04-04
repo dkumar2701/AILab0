@@ -1,6 +1,7 @@
 import student_code
 
 
+
 start_array = [1, 3, 2, 8, 9, 11, 100, 4]
 final_array = [1, 2, 3, 4, 8, 9, 11, 100]
 start_stats = [0, 0, 0]
